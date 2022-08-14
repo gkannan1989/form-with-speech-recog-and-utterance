@@ -1,5 +1,5 @@
 # form-with-speech-recog-and-utterance
-  Multi step form with speech recognization and autil based on customer voice
+  Multi step form with speech recognition and auto fill based on customer voice
 
 # Install
   yarn install
